@@ -1,5 +1,6 @@
-#ingredients
+#recipe
+##ingredients
 -avocado
 -lime
 -salt
-#instructions
+##instructions
